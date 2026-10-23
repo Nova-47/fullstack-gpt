@@ -133,7 +133,7 @@ pdfminer.six==20221105
 pdfplumber==0.10.2
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow==9.5.0
+Pillow==13.0.0
 pinecone-client==2.2.4
 platformdirs==3.10.0
 playwright==1.39.0
