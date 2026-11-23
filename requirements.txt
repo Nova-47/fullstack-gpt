@@ -63,7 +63,7 @@ GitPython==3.1.35
 gpt4all==2.0.2
 greenlet==3.0.0
 h11==0.14.0
-h2==4.1.0
+h2==4.4.1
 hpack==4.0.0
 html2text==2020.1.16
 httpcore==0.18.0
